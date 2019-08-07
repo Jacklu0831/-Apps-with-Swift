@@ -32,15 +32,7 @@ Some small apps I made with Swift. Originally in separate repos but I just clone
 
 ## [Matcher](Matcher)
 
-<table width="100%">
-  <tr>
-    <th width="50%">
-    <p>A "full-fledged" Swift IOS application that simulates the game "concentration". Due to the proper and complete constraints applied to the UI components, this application fully functions on all iPhone and all iPad models. </p>
-    </th>
-    <th>
-<p align="center"><img width="648" height="300" alt="screen shot 2019-03-04 at 9 57 05 pm" src="https://user-images.githubusercontent.com/43103206/53777829-9d99e280-3ec8-11e9-948c-39b4a95280ce.png"></p>
-    </th>
-  </tr>
-  </table>
+A "full-fledged" Swift IOS application that simulates the game "concentration". Due to the proper and complete constraints applied to the UI components, this application fully functions on all iPhone and all iPad models.
 
+<p align="center"><img width="648" height="300" alt="screen shot 2019-03-04 at 9 57 05 pm" src="https://user-images.githubusercontent.com/43103206/53777829-9d99e280-3ec8-11e9-948c-39b4a95280ce.png"></p>
 
