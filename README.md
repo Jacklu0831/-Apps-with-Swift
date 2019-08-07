@@ -4,19 +4,19 @@ Some small apps I made with Swift. Originally in separate repos but I just clone
 
 > Pretty exciting that [Swift for Tensorflow](https://www.tensorflow.org/swift) beta is already out, might try it out sometime. PoseNet on a phone sounds fun.
 
-## [War]("War")
+## [War](War)
 
 A simple Swift iOS application for simulating the popular card game "War". The objective for this project is to gain familiarity with the Xcode platform and experience for future applications development.
 
 <img width="200" height="400" alt="screen shot 2019-03-04 at 9 23 43 pm" src="https://user-images.githubusercontent.com/43103206/53776870-7f7eb300-3ec5-11e9-8828-57cd0e3d5029.png">
 
-## [Simple Blockchain]("Simple-Blockchain")
+## [Simple Blockchain](Simple-Blockchain)
 
 Made a simple bitcoin transaction simulator in Swift to understand a bit about how blockchain works through hands-on experience. Each block in the blockchain has a data, a hash value, the hash value of the previous block and an index due to the dynamic array structure implementation. 
 
 <img src="https://user-images.githubusercontent.com/43103206/54482531-6fe36080-481b-11e9-90a7-78d64c76d2c0.gif" width="200" height="400" />
 
-## [Matcher]("Matcher")
+## [Matcher](Matcher)
 
 A "full-fledged" Swift IOS application that simulates the game "concentration". Due to the proper and complete constraints applied to the UI components, this application fully functions on all iPhone and all iPad models.
 
